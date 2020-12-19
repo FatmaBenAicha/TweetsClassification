@@ -3,6 +3,5 @@ tweepy == 3.9.0
 pandas == 1.0.5
 nltk == 3.5
 numpy == 1.18.5
-en_core_web_sm == 2.3.1
 spacy == 2.3.2
 matplotlib == 3.2.2
