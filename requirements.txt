@@ -1,6 +1,5 @@
 seaborn == 0.10.1
 tweepy == 3.9.0
-csv == 1.0
 pandas == 1.0.5
 nltk == 3.5
 numpy == 1.18.5
